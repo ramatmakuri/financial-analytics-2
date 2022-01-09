@@ -1,2 +1,2 @@
-# financial-analytsics-2
+# financial-analytics-2
 second financial analytics project
