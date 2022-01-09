@@ -114,28 +114,8 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
     # The CLI tool should prompt the user to save the results as a CSV file, if there are qualifying loans. Also, the user should have an option to exit without saving.
     # If the user opts to save the list of qualifyoing loans, the CLI tool should prompt for a filew path where the file should be saved.
     # If there are no qualifying loans, the application should notify the user and exit
-    # YOUR CODE HERE!
-
-def save_qualifying_banks(bank_data_filtered):
-    if len(bank_data_filtered) >0:
-        save_file = questionary.text(f"You have {len(bank_data_filtered)} loans. Do you want to save the list of qualifying loans?").ask()
-        if save_file == 'y':
-            file_path1 = questionary.text("Enter a file path to store the file (.csv):").ask()
-            file_path1 = Path(file_path1)
-            field_names = ("Lender","Max Loan Amount","Max LTV","Max DTI","Min Credit Score","Interest Rate")
-            with open (file_path1, 'w', newline = "") as csv_file:
-                csv_writer = csv.writer(csv_file, delimiter = ',')
-                csv_writer.writerow(field_names)
-                csv_writer.writerows(bank_data_filtered)
-            if not file_path1.exists():
-                sys.exit(f"Oops! Can't find this path: {file_path1}")
-            return load_csv(file_path1)
-        else: 
-            print ("Ok! Exiting without saving the file") 
-            return
-    else: 
-        print ("There are no qualifying loans") 
-        return
+    # YOUR CODE HERE!    
+from misc.csv_write import save_qualifying_banks
 
 def run():
     """The main function for running the script."""

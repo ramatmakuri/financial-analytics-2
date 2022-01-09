@@ -1,33 +1,18 @@
-# Project Title
-
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
-
+# Financial Analytsics -  Loan Processing Application
 ---
+This is a python application that allows users to identify potential lenders. The application takes inputs from users about their specific loan eligiiblity conditions, evaluates these inputs against loan criteria from various loan proviers, and returns a short-list of qualifying loans. The loan criteria for a hypothetical list of loan providers is provided in a csv file  titled `daily_rate_sheet'.
 
-## Technologies
-
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
-
----
+## Packages Used
+This project leverages python 3.7 
 
 ## Installation Guide
+The application requires the below programs to be installed 
+```
+*python
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
-
----
-
-## Usage
-
-This section should include screenshots, code blocks, or animations explaining how to use your project.
-
----
-
+```
 ## Contributors
-
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
-
----
+Brought to you by Ram Atmakuri (ram.atmakuri@outlook.com)
 
 ## License
-
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+[MIT] (https://choosealicense.com/licenses/mit/)
