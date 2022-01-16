@@ -15,8 +15,10 @@ from pathlib import Path
 
 def save_qualifying_banks(bank_data_filtered):
     if len(bank_data_filtered) >0:
-        save_file = questionary.text(f"You have {len(bank_data_filtered)} loans. Do you want to save the list of qualifying loans?").ask()
-        if save_file == 'y':
+        print (f"You have {len(bank_data_filtered)} loans.") 
+        save_file = questionary.checkbox ("Do you want to save the list of qualifying loans?", choices=["Yes", "No"]).ask()
+        print(save_file)
+        if save_file[0]== "Yes":
             file_path1 = questionary.text("Enter a file path to store the file (.csv):").ask()
             file_path1 = Path(file_path1)
             field_names = ("Lender","Max Loan Amount","Max LTV","Max DTI","Min Credit Score","Interest Rate")
