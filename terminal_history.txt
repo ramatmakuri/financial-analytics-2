@@ -1,0 +1,982 @@
+   50  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   51  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   52  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   53  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   54  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   55  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   56  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   57  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   58  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   59  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   60  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   61  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   62  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/pizza_shop_rev_py
+   63  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   64  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   65  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   66  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   67  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   68  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   69  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   70  /usr/bin/python3
+   71  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   72  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   73  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   74  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   75  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   76  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   77  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/file_write.py
+   78  /usr/bin/python3 Untitled-1
+   79  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Untitled-1.py
+   80  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Untitled-1.py
+   81  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Untitled-1.py
+   82  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Untitled-1.py
+   83  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Untitled-1.py
+   84  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Untitled-1.py
+   85  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Untitled-1.py
+   86  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Untitled-1.py
+   87  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Untitled-1.py
+   88  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Untitled-1.py
+   89  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Untitled-1.py
+   90  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+   91  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+   92  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+   93  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+   94  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+   95  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+   96  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+   97  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+   98  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+   99  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  100  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  101  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  102  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  103  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  104  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  105  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  106  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  107  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  108  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  109  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  110  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  111  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  112  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  113  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  114  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  115  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  116  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  117  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  118  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  119  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  120  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  121  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  122  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  123  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  124  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  125  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  126  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  127  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  128  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  129  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  130  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  131  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  132  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  133  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  134  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  135  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  136  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  137  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  138  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  139  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  140  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  141  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  142  /usr/bin/python3 Untitled-1
+  143  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/writecsv.py
+  144  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/writecsv.py
+  145  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/writecsv.py
+  146  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/writecsv.py
+  147  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/path.py
+  148  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/writecsv.py
+  149  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/writecsv.py
+  150  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/writecsv.py
+  151  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/writecsv.py
+  152  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/writecsv.py
+  153  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/writecsv.py
+  154  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/writecsv.py
+  155  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  156  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  157  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  158  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  159  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  160  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  161  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  162  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  163  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  164  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  165  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  166  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  167  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  168  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  169  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  170  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  171  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  172  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  173  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  174  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  175  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  176  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  177  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  178  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  179  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  180  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  181  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  182  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  183  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  184  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  185  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  186  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  187  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  188  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  189  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  190  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  191  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  192  /usr/bin/python3 /Users/unicorn/Desktop/github_upload/name.py
+  193  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  194  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  195  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  196  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  197  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  198  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  199  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  200  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  201  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  202  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  203  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  204  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  205  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  206  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  207  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  208  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  209  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  210  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  211  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  212  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  213  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  214  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  215  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  216  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  217  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  218  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  219  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  220  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  221  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  222  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  223  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  224  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  225  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  226  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  227  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  228  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  229  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  230  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  231  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  232  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  233  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  234  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  235  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  236  /usr/bin/python3
+  237  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  238  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  239  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  240  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  241  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  242  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  243  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  244  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  245  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  246  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  247  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  248  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  249  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  250  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  251  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  252  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  253  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  254  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  255  /usr/bin/python3
+  256  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  257  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  258  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  259  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  260  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  261  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  262  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  263  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  264  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  265  /usr/bin/python3 Untitled-1
+  266  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  267  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  268  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  269  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  270  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  271  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  272  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  273  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  274  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  275  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  276  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  277  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  278  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  279  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  280  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  281  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  282  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  283  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  284  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  285  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  286  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  287  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  288  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  289  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  290  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  291  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  292  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  293  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  294  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  295  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  296  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  297  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  298  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  299  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  300  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  301  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  302  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  303  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  304  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  305  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  306  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  307  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  308  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  309  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  310  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  311  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  312  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  313  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  314  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  315  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  316  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  317  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  318  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  319  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  320  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  321  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  322  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  323  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  324  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  325  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  326  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/csv_write.py
+  327  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  328  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  329  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  330  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  331  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  332  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  333  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  334  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  335  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  336  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  337  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  338  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  339  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  340  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  341  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  342  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  343  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  344  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  345  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  346  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  347  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  348  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  349  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  350  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  351  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  352  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  353  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  354  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  355  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  356  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  357  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  358  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  359  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  360  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  361  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  362  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  363  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  364  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  365  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  366  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  367  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  368  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  369  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  370  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  371  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  372  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  373  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  374  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  375  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  376  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  377  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  378  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  379  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  380  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  381  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  382  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  383  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  384  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  385  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  386  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  387  ;2D;2D;2D/usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  388  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  389  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  390  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  391  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  392  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  393  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  394  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  395  /usr/bin/python3 /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  396  pwd
+  397  ls
+  398  cd Downloads
+  399  ls
+  400  cp -R ~/Donwlaods/02_Pathways_to_Success_Part_1 ~/Desktop/FinTech_Workspace
+  401  cp - R ~/Downloads/02_Pathways_to_Success_Part_1 ~/Desktop/FinTech_Workspace/02_Pathways_to_Success_Part_1
+  402  cd ~
+  403  cd Desktop
+  404  ls
+  405  cd FinTech_Workspace
+  406  ls
+  407  cd~
+  408  cd ~
+  409  ls
+  410  cd Downloads
+  411  ls
+  412  cp - R ~/Downloads/02_Pathways_to_Success_Part_1 ~/Desktop/FinTech_Workspace/02_Pathways_to_Success_Part_1
+  413  cd ~
+  414  cd Desktop
+  415  cd Fintech_Workspace
+  416  ls
+  417  cd ~
+  418  pwd
+  419  cd Desktop
+  420  mkdir github_upload
+  421  mkdir challenge1
+  422  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py
+  423  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py
+  424  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py
+  425  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py
+  426  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py
+  427  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py
+  428  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py
+  429  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py
+  430  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py
+  431  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  432  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  433  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  434  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  435  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  436  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  437  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  438  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  439  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  440  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  441  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  442  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  443  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/Mod2_Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  444  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  445  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  446  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  447  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  448  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  449  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  450  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  451  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  452  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  453  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  454  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  455  /usr/bin/python3 Untitled-1
+  456  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/use_calculator.py
+  457  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/use_calculator.py
+  458  /usr/bin/python3
+  459  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/use_calculator.py
+  460  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/use_calculator.py
+  461  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/use_calculator.py
+  462  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/use_calculator.py
+  463  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  464  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  465  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  466  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/loan_qualifier/Unsolved/app.py
+  467  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/loan_qualifier/Unsolved/app.py
+  468  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/loan_qualifier/Unsolved/app.py
+  469  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/loan_qualifier/Unsolved/app.py
+  470  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  471  pwd
+  472  ls
+  473  cd Desktop
+  474  ls
+  475  cd FinTech_Workspace
+  476  ls
+  477  mkdir test_folder
+  478  ls
+  479  cd test_folder
+  480  touch fintech-file.txt
+  481  ls
+  482  cd..
+  483  cd ..
+  484  rm -r
+  485  rm -r
+  486  ls
+  487  pip install fire
+  488  pip install fire
+  489  import fire
+  490  cd ..
+  491  cd ..
+  492  pip install fire
+  493  where python
+  494  ls
+  495  cd opt
+  496  cd anaconda
+  497  cd anaconda3
+  498  cd bin
+  499  pip install fire
+  500  cd python
+  501  cd python
+  502  where python
+  503  cd ..
+  504  cd bin
+  505  cd python
+  506  pip install fire
+  507  which pip
+  508  where fire
+  509  pip install fire
+  510  cd ..
+  511  cd lib
+  512  ls
+  513  cd python 3.9
+  514  cd python3.9
+  515  ls
+  516  pip install fire
+  517  conda install fire
+  518  cd ..
+  519  cd ..
+  520  cd bin
+  521  pip install questionary
+  522  cd ..
+  523  cd ..
+  524  cd ..
+  525  ls
+  526  cd Desktop
+  527  ls
+  528  cd Fintech_Workspace
+  529  python cli.py
+  530  python cli.py --pants=True
+  531  python cli.py pants=True
+  532  python cli.py (pants = True)
+  533  python cli.py pants = True
+  534  python cli.py --pants = True
+  535  python cli.py --pants=True
+  536  python cli.py --help
+  537  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/cli.py
+  538  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/cli.py
+  539  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/cli.py
+  540  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/cli.py
+  541  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/cli.py
+  542  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/cli.py
+  543  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/cli.py
+  544  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/cli.py
+  545  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/cli.py
+  546  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/cli.py
+  547  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/cli.py
+  548  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/cli.py
+  549  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/cli.py
+  550  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/cli.py
+  551  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/cli.py
+  552  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/cli.py
+  553  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/cli.py
+  554  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  555  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  556  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  557  source /Users/unicorn/opt/anaconda3/bin/activate
+  558  conda activate base
+  559  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/dialog.py
+  560  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/dialog.py
+  561  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/dialog.py
+  562  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  563  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  564  cd Desktop
+  565  ls
+  566  cd Fintech_Workspace
+  567  ls
+  568  python cli.py -pants = True
+  569  pyhton cli.py
+  570  python cli.py
+  571  python cli.py
+  572  python cli.py --pants ==False
+  573  python cli.py --pants=False
+  574  python cli.py --pants=True
+  575  ls
+  576  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  577  ls
+  578  cd Unsolved
+  579  Python app.py
+  580  pwd
+  581  python app.py --credit_score=750
+  582  python app.py
+  583  python app.py --debt=5000
+  584  python app.py --debt=5000
+  585  python app.py --credit_score=750
+  586  python app.py --credit_score=750 --debt=5000 --income=20000
+  587  python app.py --credit_score = 750
+  588  python app.py --credit_score = 700
+  589  pyhton app.py --credit_score = 700
+  590  python app.py --credit_score=700
+  591  python app.py --credit_score=750 --debt=5000 --income=2000
+  592  python app.py --credit_score=750 --debt=5000 --income=45000\n
+  593  cd ..
+  594  cd ..
+  595  cd ~
+  596  pip install questionary
+  597  ls
+  598  cd Desktop
+  599  ls
+  600  cd FinTech_Workspace
+  601  ls
+  602  python dialog.py
+  603  python dialog.py
+  604  python dialog.py
+  605  python dialog.py
+  606  python dialog.py
+  607  python dialog.py
+  608  pythn dialog.py
+  609  python dialog.py
+  610  ls
+  611  cd 02_Adding_questionary_to_Loan_Qualifier
+  612  ls
+  613  cd Unsolved
+  614  python app.py --credit_score=750 --debt=5000 --income=20000
+  615  cd ..
+  616  cd ..
+  617  cd ..
+  618  mkdir UCB_Class
+  619  cd UCB_Class
+  620  gitclone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  621  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  622  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  623  git status
+  624  gitstatus
+  625  git log
+  626  ls
+  627  cd UCB-VIRT-FIN-PT-12-2021-U-B
+  628  git log
+  629  git pull
+  630  git log
+  631  cd ..
+  632  cd ..
+  633  ls
+  634  cd FinTech_Workspace
+  635  ls
+  636  cd 02_Adding_questionary_to_Loan_Qualifier
+  637  ls
+  638  cd Unsolved
+  639  python app.py
+  640  /data/daily_rate_sheet.csv
+  641  ./data/daily_rate_sheet.csv
+  642  python app.py
+  643  python app.py
+  644  cd ..
+  645  cd solved
+  646  python app.py
+  647  cd .. 
+  648  cd Unsolved
+  649  python app.py
+  650  python app.py
+  651  source /Users/unicorn/opt/anaconda3/bin/activate
+  652  conda activate base
+  653  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/challenge1/loan_analyzer.py
+  654  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/financial_analytsics_1/loan_analyzer.py
+  655  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/financial_analytsics_1/loan_analyzer.py
+  656  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/financial_analytsics_1/loan_analyzer.py
+  657  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/financial_analytsics_1/loan_analyzer.py
+  658  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/financial_analytsics_1/loan_analyzer.py
+  659  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/financial_analytsics_1/loan_analyzer.py
+  660  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/financial_analytsics_1/loan_analyzer.py
+  661  /usr/bin/python3 /Users/unicorn/Desktop/FinTech_Workspace/financial_analytsics_1/loan_analyzer.py
+  662  /usr/bin/python3 "/Users/unicorn/Desktop/FinTech_Workspace/financial_analytsics_2 copy/loan_analyzer_app.py"
+  663  cd ~
+  664  git config --global user.name Ram Atmakuri\t
+  665  git config --global user.email ram.atmakuri@outlook.com
+  666  git config --list
+  667  clr
+  668  clear
+  669  ls
+  670  cd Desktop
+  671  mkdir finance_analytics2
+  672  cd finance_analytics2
+  673  git clone https://github.com/ramatmakuri/financil_analytics2.git
+  674  ls
+  675  cd financil_analytics2
+  676  ls
+  677  pwd
+  678  git status
+  679  git add README.md
+  680  git status
+  681  touch finance.txt
+  682  ls
+  683  git status
+  684  git add finance.txt
+  685  git status
+  686  git commit -m "this is good one"
+  687  git status
+  688  git push
+  689  git push
+  690  git push
+  691  cd ..
+  692  cd ..
+  693  ls
+  694  cd FinTech_Workspace
+  695  ls
+  696  cd financial_analytsics_1
+  697  ls
+  698  cd ..
+  699  git clone https://github.com/ramatmakuri/financial-analytsics-2.git
+  700  git clone https://github.com/ramatmakuri/financial-analytics-2.git
+  701  ls
+  702  cd financial-analytics-2
+  703  python app.py
+  704  python
+  705  source /Users/unicorn/opt/anaconda3/bin/activate
+  706  conda activate base
+  707  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  708  daily_rate_sheet.csv
+  709  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  710  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  711  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  712  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  713  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  714  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  715  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  716  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  717  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  718  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  719  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  720  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  721  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  722  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  723  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  724  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  725  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  726  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  727  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  728  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  729  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  730  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  731  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  732  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  733  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  734  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  735  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  736  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  737  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  738  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  739  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  740  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  741  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  742  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  743  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  744  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  745  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  746  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  747  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  748  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  749  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  750  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  751  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  752  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  753  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  754  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  755  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  756  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  757  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  758  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  759  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  760  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  761  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  762  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  763  loan_qualifier_app/data/daily_rate_sheet.csv
+  764  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  765  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  766  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  767  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  768  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  769  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  770  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  771  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  772  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  773  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  774  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  775  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  776  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  777  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  778  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  779  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  780  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  781  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  782  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  783  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  784  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  785  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  786  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  787  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  788  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  789  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  790  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  791  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  792  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  793  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  794  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  795  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  796  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  797  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  798  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  799  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  800  cd Desktop
+  801  ls
+  802  cd FinTech_Workspace
+  803  ls
+  804  cd financial-analytics-2
+  805  ls
+  806  python loan_qualifier_app
+  807  cd loan_qualifier_app
+  808  python app.py
+  809  python app.py
+  810  ls
+  811  python app.py
+  812  python app.py
+  813  git status
+  814  cd ..
+  815  ls
+  816  cd ~
+  817  ls
+  818  cd Desktop
+  819  ls
+  820  cd Fintech_Workspace
+  821  ls
+  822  cd financial-analytics-2
+  823  ls
+  824  cd loan_qualifier_app
+  825  git status
+  826  git commit -m "Inital Files"
+  827  git commit -a
+  828  ls
+  829  cd Desktop
+  830  ls
+  831  cd Fintech_Workspace
+  832  ls
+  833  cd financial-analytics-2
+  834  ls
+  835  cd loan_qualifier_app
+  836  git commit -a
+  837  ls
+  838  cd Desktop
+  839  ls
+  840  cd FinTech_Workspace
+  841  ls
+  842  cd financial-analytics-2
+  843  git init -b main
+  844  cd ..
+  845  cd ..
+  846  ls
+  847  cd finance_analytics2
+  848  ls
+  849  git clone https://github.com/ramatmakuri/financial-analytsics-2.git
+  850  git push
+  851  git status
+  852  ls
+  853  cd..
+  854  cd ~
+  855  cd desktop
+  856  ls
+  857  cd FinTech_Workspace
+  858  git clone https://github.com/ramatmakuri/financial-analytics-2.git
+  859  ls
+  860  cd financial-analytics-2
+  861  ls
+  862  git push
+  863  git push
+  864  ls
+  865  cd loan_qualifier_app
+  866  git push
+  867  git push
+  868  git push
+  869  cd ..
+  870  git push
+  871  git push
+  872  git status
+  873  git add
+  874  git add .
+  875  git commit -a
+  876  cd Desktop
+  877  cd Fintech_Workspace
+  878  ls
+  879  cd financial-analytics-2
+  880  git add
+  881  git add .
+  882  git commit -a -m "These are the original files"
+  883  git push
+  884  source /Users/unicorn/opt/anaconda3/bin/activate
+  885  conda activate base
+  886  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/misc_functions/csv_write
+  887  source /Users/unicorn/opt/anaconda3/bin/activate
+  888  conda activate base
+  889  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  890  source /Users/unicorn/opt/anaconda3/bin/activate
+  891  conda activate base
+  892  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  893  /Users/unicorn/opt/anaconda3/bin/python /Users/unicorn/Desktop/FinTech_Workspace/financial-analytics-2/loan_qualifier_app/app.py
+  894  cd ..
+  895  cd ~
+  896  cd Desktop
+  897  la
+  898  ls
+  899  cd Fintech_Workspace
+  900  ls
+  901  cd financial-analytics-2
+  902  git pull
+  903  git status
+  904  get fetch
+  905  git fetch
+  906  git add .
+  907  git commit -a -m "Readme file update"
+  908  git push
+  909  activate conda dev
+  910  conda list pandas
+  911  conda list jupyter lab
+  912  conda list jupyter labs
+  913  conda list jupyterlab
+  914  jupyter lab
+  915  conda deactivate
+  916  activate conda dev
+  917  conda activate dev
+  918  jupyter lab
+  919  Deactivate conda
+  920  conda deactivate
+  921  conda activate dev
+  922  jupytor
+  923  jupytorlab
+  924  jupytorlabs
+  925  deactivate conda
+  926  conda deactivate
+  927  clear
+  928  clear
+  929  cd ..
+  930  cd ..
+  931  cd ~
+  932  clear
+  933  cd Desktop
+  934  ls
+  935  cd Fintech_Workspace
+  936  conda activate
+  937  conda activate dev
+  938  clear
+  939  jupyter lab
+  940  activate conda dev
+  941  conda activate dev
+  942  jupyterlab
+  943  jupyter lab
+  944  deactivate conda
+  945  conda deactivate
+  946  clear
+  947  conda activate dev
+  948  github clone https://github.com/ramatmakuri/financial-analytics-3.git
+  949  git clone https://github.com/ramatmakuri/financial-analytics-3.git
+  950  ls
+  951  rm inexpensive_loans.csv
+  952  rm abc.csv\t
+  953  rm abc.txt
+  954  rm abcdef.csv
+  955  rm def.csv
+  956  rm taste.csv
+  957  r, inexpensive_loans.csv
+  958  rm inexpensive_loans.csv
+  959  rm financial-analytics-3
+  960  rm -r financial-analytics-3
+  961  ls
+  962  cd Desktop
+  963  ls
+  964  cd FinTech_Workspace
+  965  ls
+  966  git clone https://github.com/ramatmakuri/financial-analytics-3.git
+  967  git status
+  968  ls
+  969  cd financial-analytics-3
+  970  git status
+  971  git add
+  972  git add .
+  973  git status
+  974  git commit
+  975  cd Desktop
+  976  ls
+  977  cd FinTech_Workspace
+  978  ls
+  979  cd financial-analytics-3
+  980  git status
+  981  git commit - m "Initial files"
+  982  git commit -m "Adding data files to be worked on and the initial python file"
+  983  git push
+  984  cd Desktop
+  985  ls
+  986  cd FinTech_Workspace
+  987  ls
+  988  cd financial-analytics-3
+  989  git status
+  990  git push
+  991  git status
+  992  jupyter labs
+  993  jupyter lab
+  994  cd Desktop
+  995  ls
+  996  cd FinTech_Workspace
+  997  conda activate dev
+  998  jupyter notes
+  999  clear
+ 1000  jupyter notebook
+ 1001  cd Desktop
+ 1002  ls
+ 1003  cd FinTech_Workspace
+ 1004  ls
+ 1005  cd financial-analytics-2
+ 1006  ls
+ 1007  cd loan_qualifier_app
+ 1008  python app.py
+ 1009  Python app.py
+ 1010  Python app.py
+ 1011  python app.py
+ 1012  pyhton app.py
+ 1013  Python app.py
+ 1014  Python app.py
+ 1015  Python app.py
+ 1016  Python app.py
+ 1017  Python app.py
+ 1018  Python app.py
+ 1019  Python app.py
+ 1020  Python app.py
+ 1021  Python app.py
+ 1022  Python app.py
+ 1023  cd ..
+ 1024  git add;
+ 1025  git status
+ 1026  git add -a
+ 1027  git add
+ 1028  git add .
+ 1029  git commit -m "Incorporated Questionary Choice function for saving csv files"
+ 1030  git push
+ 1031  git pull
